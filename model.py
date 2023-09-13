@@ -6,7 +6,6 @@ import torchvision
 import torchvision.transforms as T
 
 from imageio import imread
-from torchsummary import summary
 
 import numpy as np
 import matplotlib.pyplot as plt
